@@ -1,12 +1,16 @@
+<br />
+
 # JetBrains Evaluation Reset 🔓
 
 Before running scripts you must: ⚠️**Close all JetBrains application**⚠️
+
+<br />
 
 ### Windows 10
 Close any JetBrains application and run **JetBrainsEvaluationReset.bat** file as **Administrator**.
 > If license has status "**Not found**" it was not found or already been removed from [Registry](https://en.wikipedia.org/wiki/Windows_Registry).
 
----
+<br />
 
 ### Ubuntu
 Tested on:
@@ -21,6 +25,8 @@ Tested on:
 > Or you can set execution permission (To run on double-click)
 > 1. `chmod +x ./JetBrainsEvaluationReset.sh`
 > 2. Double click on **JetBrainsEvaluationReset.sh**
+
+<br />
 
 ---
 
