@@ -3,7 +3,7 @@
 # George Martinec <developer.jirka.martinec@gmail.com>
 
 # Remove specific Evaluation Key
-for a in ("AppCode", "CLion", "DataGrip", "DataSpell", "GoLand", "IntelliJ", "IntelliJIdea", "PhpStorm", "PyCharm", "Rider", "RubyMine", "WebStorm", "Resharper", "dotCover", "dotMemory", "dotPeak", "dotTrace")
+for a in "AppCode" "CLion" "DataGrip" "DataSpell" "GoLand" "IntelliJ" "IntelliJIdea" "PhpStorm" "PyCharm" "Rider" "RubyMine" "WebStorm" "Resharper" "dotCover" "dotMemory" "dotPeak" "dotTrace"
 do
     echo "Removing evaluation key for $a"
     rm $HOME/.config/JetBrains/$a*/eval/*.key
