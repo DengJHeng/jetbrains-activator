@@ -12,10 +12,7 @@ Close any JetBrains application and run **JetBrainsEvaluationReset.bat** file as
 
 <br />
 
-### Ubuntu
-Tested on:
-- [Ubuntu 20.04.3 LTS](https://releases.ubuntu.com/20.04/)
-- [ZorinOS 15.3](https://zorin.com/)
+### Linux
 
 > ### How to run .sh (Bash)
 >
@@ -36,4 +33,20 @@ Tested on:
 
 <br />
 
-Made with ❤️ by [George Martinec](https://github.com/George-Martinec) 👨‍💻
+## Operating System
+| OS | Supported Versions |
+| ------------- | ------------- |
+| [Ubuntu](https://ubuntu.com/download/desktop) | `Ubuntu 20.04.3 LTS` `Ubuntu 21.10` |
+| [ZorinOS](https://zorin.com/) | `ZorinOS 15.3` `ZorinOS 16` |
+
+<br>
+
+## [New Release Update - 2021.3](https://github.com/george-martinec/jetbrains-evaluation-reset/releases/tag/2021.3)
+
+| IDEs | Supported Versions |
+| ------------- | ------------- |
+|  <img align="center" src='https://raw.githubusercontent.com/george-martinec/jetbrains-evaluation-reset/master/icons/phpstorm_32x32.svg'/> | `2021.3` `2021.3.1` |
+
+<br>
+
+Made with ❤️ by [George Martinec](https://github.com/George-Martinec)
