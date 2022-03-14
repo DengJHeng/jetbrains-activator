@@ -41,12 +41,4 @@ Close any JetBrains application and run **JetBrainsEvaluationReset.bat** file as
 
 <br>
 
-## [New Release Update - 2021.3](https://github.com/george-martinec/jetbrains-evaluation-reset/releases/tag/2021.3)
-
-| IDEs | Supported Versions |
-| ------------- | ------------- |
-|  <img align="center" src='https://raw.githubusercontent.com/george-martinec/jetbrains-evaluation-reset/master/icons/phpstorm_32x32.svg'/> | `2021.3` `2021.3.1` |
-
-<br>
-
 Made with ❤️ by [George Martinec](https://github.com/George-Martinec)
