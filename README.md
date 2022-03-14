@@ -6,7 +6,7 @@
 4. Open application
 5. Add `https://jetbra.in/` as a Licence server and activate
 
-## Custom VM Options
+## VM Options
 
 Add into to file `phpstorm64.vmoptions` or `phpstorm64.exe.vmoptions` <br>
 Or you can create free trial account and add it via application (Help > Edit Custom VM Options...)
@@ -49,7 +49,8 @@ There are a lot OS that I haven't tried, feel free to test and let me know.
 
 | IDEs | Supported Versions |
 | ------------- | ------------- |
-|  <img align="center" src='https://raw.githubusercontent.com/george-martinec/jetbrains-evaluation-reset/master/icons/phpstorm_32x32.svg'/> | `2021.3` `2021.3.1` |
+|  <img align="center" src='https://raw.githubusercontent.com/george-martinec/jetbrains-evaluation-reset/master/icons/phpstorm_32x32.svg'/> | `2021.3` `2021.3.1` 
+
 There are a lot IDEs that I haven't tried, feel free to test and let me know.
 
 <br>
