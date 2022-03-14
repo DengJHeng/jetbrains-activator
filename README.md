@@ -1,43 +1,47 @@
-<br />
+# JetBrains License Activator 🔓
 
-# JetBrains Evaluation Reset 🔓
+1. Close application
+2. Add `jetbrains.jar` file anywhere you like
+3. Add VM Options
+4. Open application
+5. Add `https://jetbra.in/` as a Licence server and activate
 
-Before running scripts you must: ⚠️**Close all JetBrains application**⚠️
+## Custom VM Options
 
-<br />
+Add into to file `phpstorm64.vmoptions` or `phpstorm64.exe.vmoptions` <br>
+Or you can create free trial account and add it via application (Help > Edit Custom VM Options...)
 
-### Windows 10
-Close any JetBrains application and run **JetBrainsEvaluationReset.bat** file as **Administrator**.
-> If license has status "**Not found**" it was not found or already been removed from [Registry](https://en.wikipedia.org/wiki/Windows_Registry).
+```
+-XX:+IgnoreUnrecognizedVMOptions
+-XX:+UseG1GC
+-XX:SoftRefLRUPolicyMSPerMB=50
+-XX:CICompilerCount=2
+-XX:+HeapDumpOnOutOfMemoryError
+-XX:-OmitStackTraceInFastThrow
+-ea
+-Dsun.io.useCanonCaches=false
+-Djdk.http.auth.tunneling.disabledSchemes=""
+-Djdk.attach.allowAttachSelf=true
+-Djdk.module.illegalAccess.silent=true
+-Dkotlinx.coroutines.debug=off
+-XX:ErrorFile=$USER_HOME/java_error_in_idea_%p.log
+-XX:HeapDumpPath=$USER_HOME/java_error_in_idea.hprof
 
-<br />
 
-### Linux
+-javaagent:/path/to/jetbrains.jar=jetbrains
+```
 
-> ### How to run .sh (Bash)
->
-> In terminal:
-> - `sudo bash ./JetBrainsEvaluationReset.sh` OR `sudo sh ./JetBrainsEvaluationReset.sh`
->
-> Or you can set execution permission (To run on double-click)
-> 1. `chmod +x ./JetBrainsEvaluationReset.sh`
-> 2. Double click on **JetBrainsEvaluationReset.sh**
+#### Don't forget to change `/path/to/` to your actual path of the `jetbrains.jar` file !
 
-<br />
-
----
-
-<br />
-
-> Evaluation also resets plugins, e.g. [Material Theme UI](https://plugins.jetbrains.com/plugin/8006-material-theme-ui) plugin 🤯
-
-<br />
 
 ## Operating System
-| OS | Supported Versions |
-| ------------- | ------------- |
+| OS                                            | Supported Versions                  |
+|-----------------------------------------------|-------------------------------------|
 | [Ubuntu](https://ubuntu.com/download/desktop) | `Ubuntu 20.04.3 LTS` `Ubuntu 21.10` |
-| [ZorinOS](https://zorin.com/) | `ZorinOS 15.3` `ZorinOS 16` |
+| [ZorinOS](https://zorin.com/)                 | `ZorinOS 15.3` `ZorinOS 16`         |
+| [Windows](https://www.microsoft.com/windows)  | `Windows 10` `Windows 11`           |
+
+There are a lot OS that I haven't tried, feel free to test and let me know.
 
 <br>
 
@@ -46,6 +50,7 @@ Close any JetBrains application and run **JetBrainsEvaluationReset.bat** file as
 | IDEs | Supported Versions |
 | ------------- | ------------- |
 |  <img align="center" src='https://raw.githubusercontent.com/george-martinec/jetbrains-evaluation-reset/master/icons/phpstorm_32x32.svg'/> | `2021.3` `2021.3.1` |
+There are a lot IDEs that I haven't tried, feel free to test and let me know.
 
 <br>
 
