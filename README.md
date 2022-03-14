@@ -1,4 +1,4 @@
-# JetBrains License Activator 🔓
+# JetBrains License Server Activator 🔓
 
 1. Close application
 2. Add `jetbrains.jar` file anywhere you like
