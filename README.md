@@ -8,7 +8,7 @@
 
 ## VM Options
 
-Add into to file `phpstorm64.vmoptions` or `phpstorm64.exe.vmoptions` <br>
+Add into file `phpstorm64.vmoptions` or `phpstorm64.exe.vmoptions` <br>
 Or you can create free trial account and add it via application (Help > Edit Custom VM Options...)
 
 ```
