@@ -34,6 +34,8 @@ Or you can create free trial account and add it via application (Help > Edit Cus
 #### Don't forget to change `/path/to/` to your actual path of the `jetbrains.jar` file !
 
 
+### Works nicely with any plugins, e.g.: https://plugins.jetbrains.com/plugin/8006-material-theme-ui
+
 ## Operating System
 | OS                                            | Supported Versions                  |
 |-----------------------------------------------|-------------------------------------|
