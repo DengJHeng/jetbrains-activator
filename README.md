@@ -41,7 +41,7 @@ Or you can create free trial account and add it via application (Help > Edit Cus
 | [ZorinOS](https://zorin.com/)                 | `ZorinOS 15.3` `ZorinOS 16`         |
 | [Windows](https://www.microsoft.com/windows)  | `Windows 10` `Windows 11`           |
 
-There are a lot OS that I haven't tried, feel free to test and let me know.
+There are a lots of Operating systems that I haven't tried, feel free to test and let me know.
 
 <br>
 
@@ -51,7 +51,7 @@ There are a lot OS that I haven't tried, feel free to test and let me know.
 | ------------- | ------------- |
 |  <img align="center" src='https://raw.githubusercontent.com/george-martinec/jetbrains-evaluation-reset/master/icons/phpstorm_32x32.svg'/> | `2021.3` `2021.3.1` 
 
-There are a lot IDEs that I haven't tried, feel free to test and let me know.
+There are a lots of IDEs that I haven't tried, feel free to test and let me know.
 
 <br>
 
