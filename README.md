@@ -12,6 +12,7 @@ Add into file `phpstorm64.vmoptions` or `phpstorm64.exe.vmoptions` <br>
 Or you can create free trial account and add it via application (Help > Edit Custom VM Options...)
 
 ```
+-XX:ReservedCodeCacheSize=512m
 -XX:+IgnoreUnrecognizedVMOptions
 -XX:+UseG1GC
 -XX:SoftRefLRUPolicyMSPerMB=50
