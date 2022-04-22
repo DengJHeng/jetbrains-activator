@@ -4,7 +4,7 @@
 2. Add `jetbrains.jar` file anywhere you like
 3. Add VM Options
 4. Open application
-5. Add License server, choose from license_servers.txt, e.g.: `http://49.234.70.205` and press activate
+5. Add License server, choose from [license_servers.txt](https://github.com/george-martinec/jetbrains-activator/blob/master/license_servers.txt), e.g.: `http://49.234.70.205` and press activate
 
 ## VM Options
 
