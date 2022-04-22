@@ -48,8 +48,6 @@ There are a lots of Operating systems that I haven't tried, feel free to test an
 
 <br>
 
-## [New Release - 2.0](https://github.com/george-martinec/jetbrains-activator/releases/tag/2.0)
-
 | IDEs | Supported Versions |
 | ------------- | ------------- |
 |  <img align="center" src='https://raw.githubusercontent.com/george-martinec/jetbrains-evaluation-reset/master/icons/phpstorm_32x32.svg'/> | `2022.1`
