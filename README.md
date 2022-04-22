@@ -40,7 +40,7 @@ Or you can create free trial account and add it via application (Help > Edit Cus
 ## Operating System
 | OS                                            | Supported Versions                  |
 |-----------------------------------------------|-------------------------------------|
-| [Ubuntu](https://ubuntu.com/download/desktop) | `Ubuntu 20.04.3 LTS` `Ubuntu 21.10` |
+| [Ubuntu](https://ubuntu.com/download/desktop) | `Ubuntu 20.04.3 LTS` `Ubuntu 21.10` `Ubuntu 22.04 LTS` |
 | [ZorinOS](https://zorin.com/)                 | `ZorinOS 15.3` `ZorinOS 16`         |
 | [Windows](https://www.microsoft.com/windows)  | `Windows 10` `Windows 11`           |
 
