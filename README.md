@@ -28,6 +28,8 @@ Or you can create free trial account and add it via application (Help > Edit Cus
 -XX:ErrorFile=$USER_HOME/java_error_in_idea_%p.log
 -XX:HeapDumpPath=$USER_HOME/java_error_in_idea.hprof
 
+--add-opens=java.base/jdk.internal.org.objectweb.asm=ALL-UNNAMED
+--add-opens=java.base/jdk.internal.org.objectweb.asm.tree=ALL-UNNAMED
 
 -javaagent:/path/to/jetbrains.jar=jetbrains
 ```
