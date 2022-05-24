@@ -52,7 +52,7 @@ There are a lots of Operating systems that I haven't tried, feel free to test an
 
 | IDEs | Supported Versions |
 | ------------- | ------------- |
-|  <img align="center" src='https://raw.githubusercontent.com/george-martinec/jetbrains-evaluation-reset/master/icons/phpstorm_32x32.svg'/> | `2022.1`
+|  <img align="center" src='https://raw.githubusercontent.com/george-martinec/jetbrains-evaluation-reset/master/icons/phpstorm_32x32.svg'/> | `2022.1`, `2022.1.x`
 
 There are a lots of IDEs that I haven't tried, feel free to test and let me know.
 
